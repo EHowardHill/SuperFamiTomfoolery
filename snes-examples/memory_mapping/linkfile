@@ -1,0 +1,8 @@
+[objects]
+src/memory_mapping.obj
+data.obj
+hdr.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/lib/HiROM_FastROM/crt0_snes.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/lib/HiROM_FastROM/libc.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/lib/HiROM_FastROM/libm.obj
+/home/runner/work/pvsneslib/pvsneslib/pvsneslib/lib/HiROM_FastROM/libtcc.obj
